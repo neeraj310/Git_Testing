@@ -1,2 +1,2 @@
 print("Test master merge to test branch")
-print(" updated main_new.py remotely")
+print(" updated main_new.py locally")
